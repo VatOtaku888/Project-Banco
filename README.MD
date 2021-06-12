@@ -2,7 +2,11 @@
 <img src="https://cdn.discordapp.com/attachments/715949555211960422/851938812179644476/BancoOnline_Cap.PNG">
 
 ## Introducción:
+#### VERSION 0.0.2v
+Ejecutalo en el terminald de vscode
+este no se acepta en cmd el modulo de windows
 
+#### VERSION 0.0.1v
 * Banco Project
 > Un Codigo simple y un minijuego
 Tiene Opciones como Trabajar, Donar, ver tu sueldo y terminar el programa
