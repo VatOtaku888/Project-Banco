@@ -4,7 +4,7 @@
 ## Introducción:
 #### VERSION 0.0.2v
 Ejecutalo en el terminald de vscode
-este no se acepta en cmd el modulo de windows
+Por alguna razón en el cmd windows no carga el color y en el terminal de vscode si
 
 #### VERSION 0.0.1v
 * Banco Project
