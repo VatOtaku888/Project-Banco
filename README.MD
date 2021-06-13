@@ -21,6 +21,8 @@ pip3 install colorama
 ```
 Para instalar el programa
 Dale click [Aqui](https://www.mediafire.com/file/80sjoy12b9kd7gn/Banco_Project.zip/file)
+version 0.0.2v
+Dale click [Aqui](https://www.mediafire.com/file/wnfo437kqa6gyjm/Banco+Project.zip/file)
 ## Ejecución:
 
 * Ejemplo:
