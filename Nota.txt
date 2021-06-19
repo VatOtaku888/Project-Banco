@@ -2,9 +2,11 @@ VERSIONES
 
 Version 0.0.1v
 
-NUEVA VERSION
-
 Version 0.0.2v
+
+NUEVA VERSION
+0.0.3v
+
 Creditos
 
 Creador vat otaku
