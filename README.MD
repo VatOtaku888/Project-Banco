@@ -3,6 +3,10 @@
 
 ## Introducción:
 
+### VERSION 1.0.0v
+Project Banco Ya es una app!!!
+Puedes instalarlo abajo donde dice instalaciones!!
+
 #### VERSION 0.0.3v
 
 Problema de colores para terminal de el cmd de windows arreglado. ya no hay necesidad de ejecutarlo en vscode lol
@@ -35,6 +39,9 @@ Dale click [Aqui](https://www.mediafire.com/file/wnfo437kqa6gyjm/Banco+Project.z
 version 0.0.3v
 
 Dale Click [Aqui](https://www.mediafire.com/file/bbkxy1niwflq5jr/Banco_Project.zip/file)
+
+Version 1.0.0v
+Dale click [Aqui](https://www.mediafire.com/file/lq797z6um64ak6l/Setup+BancoProject.exe/file)
 ## Ejecución:
 
 * Ejemplo:
