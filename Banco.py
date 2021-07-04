@@ -28,10 +28,9 @@ print(f"""
 
 BancoStart = str(input(f":")) #input de comienzo
 D = 0 #Dinero Valor NUmerico
-count = 1
 
 #.......BANCO........#
-while count < 2: # Ciclo De el programa
+while True: # Ciclo De el programa
     if BancoStart == "Yes" or BancoStart == "yes" or BancoStart == "YES" or BancoStart == "Y" or BancoStart == "y": #Eleccion Aceptar
         print(f"""
 {Fore.YELLOW}[E]{Style.RESET_ALL}     Hay multiples funciones
@@ -91,7 +90,7 @@ while count < 2: # Ciclo De el programa
 #CERRAR PROGRAMA#
 
             elif Trabajos == "End" or Trabajos == "end" or Trabajos == "END":
-                count = count + 1
+                break
 
 #.OPCION_INVALIDA.#
 
@@ -128,11 +127,11 @@ while count < 2: # Ciclo De el programa
 
     elif BancoStart == "No" or BancoStart == "NO" or BancoStart == "no" or BancoStart == "nO" or BancoStart == "N" or BancoStart == "n":
         print(f"{Fore.YELLOW}[N]{Style.RESET_ALL}     Vuelva Pronto!!!!\n{Fore.YELLOW}[N]{Style.RESET_ALL}     Aunque No se por que decidiste elegir no")
-        count = count + 1
+        break
     
 #.....INVALIDO.......#
 
     else:
-        count = count + 1
+        break
         print(f"{Fore.YELLOW}[E]{Style.RESET_ALL}     {Fore.RED}ELIGE UNA OPCION VALIDA{Style.RESET_ALL}\n{Fore.YELLOW}[E]{Style.RESET_ALL}     {Fore.RED}ESA NO ES UNA OPCION VALIDA")
 
